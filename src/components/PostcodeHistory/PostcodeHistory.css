@@ -1,0 +1,23 @@
+.postcode-history {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .postcode-history .card-title {
+    margin-bottom: 1rem;
+    cursor: pointer; 
+    color: #007bff;
+    transition: color 0.3s ease;
+  }
+  
+  .postcode-history .postcode-title {
+    cursor: pointer; 
+    color: #007bff;
+    transition: color 0.3s ease;
+  }
+  
+  .postcode-history .card-title:hover,
+  .postcode-history .postcode-title:hover {
+    color: #0056b3;
+  }
+  

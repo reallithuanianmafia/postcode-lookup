@@ -1,0 +1,17 @@
+.postcode-details {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .postcode-details .card-title {
+    margin-bottom: 1rem;
+  }
+
+  .custom-heading {
+    font-size: 1rem;
+    font-weight: 300; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #333;
+    letter-spacing: 2px; 
+    text-transform: uppercase; 
+  }

@@ -1,0 +1,14 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .custom-heading {
+    font-size: 3rem; /* Large font size */
+    font-weight: 300; /* Slim font weight */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font family */
+    color: #333; /* Text color */
+    letter-spacing: 2px; /* Increase letter spacing for a modern look */
+    text-transform: uppercase; /* Uppercase text */
+    /* Add any additional styling here */
+  }
